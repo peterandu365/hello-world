@@ -10,3 +10,4 @@ v2.1
 v2.2
 v2.3
 v2.4
+v2 new remote repository
