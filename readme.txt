@@ -11,3 +11,4 @@ v2.2
 v2.3
 v2.4
 v2 new remote repository
+v3 branch renamed to master
